@@ -1,0 +1,3 @@
+norm(X,1) - max abs col sum norm 
+norm(X,"Inf") - max abs row sum norm 
+norm(X,2) (~ norm(X)) - euclidean norm 
